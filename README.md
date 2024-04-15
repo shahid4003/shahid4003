@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://api.deepai.org/job-view-file/4ffc54f3-e30d-49ec-9ede-1ce53cd26b40/outputs/output.jpg" align="center" height="" width="600" />
+<img src="https://api.deepai.org/job-view-file/4ffc54f3-e30d-49ec-9ede-1ce53cd26b40/outputs/output.jpg"  />
 </div>  
   
 
