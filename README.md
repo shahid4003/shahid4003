@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://api.deepai.org/job-view-file/4ffc54f3-e30d-49ec-9ede-1ce53cd26b40/outputs/output.jpg"  />
+<img src="https://live-stemteachers.ws.asu.edu/sites/default/files/styles/story_hero/public/2023-11/lesson_plan_24.png?itok=Gl95yoiw"  />
 </div>  
   
 
