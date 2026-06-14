@@ -1,5 +1,3 @@
-# Hi, I'm Shahid Aziz
-
 Senior Frontend Developer with 3+ years building web products for agencies and companies in the US, UK, and Pakistan.
 
 Currently working at **Brem** (Michigan, US) — 80+ production websites shipped. Also at **Lumin**, working with Astro.js, Directus CMS, and AI integrations.
